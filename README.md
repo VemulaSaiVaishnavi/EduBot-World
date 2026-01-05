@@ -1,4 +1,4 @@
-# # EduBot World : AI-Powered Interactive Learning Platform for Kids 🌍🤖
+#  EduBot World : AI-Powered Interactive Learning Platform for Kids 🌍🤖
 
 EduBot World is an AI-assisted educational web application designed to make learning **fun, interactive, and engaging for children**.  
 The platform uses **games, storytelling, voice narration, and visual interactions** to help kids explore subjects such as **science, geography, culture, wildlife, and creativity**.
