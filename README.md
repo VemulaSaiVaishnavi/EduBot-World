@@ -64,4 +64,50 @@ To build a smart educational platform that:
 
 ## 📁 Project Structure
 
+EduBot-World/
+│── app.py # Main Flask application
+│── static/ # CSS, JS, images, audio
+│── templates/ # HTML templates
+│── database.db # SQLite database
+│── Documentation.pdf # Project documentation
+│── IEEE-Paper.pdf # Research paper
+│── Presentation.pptx # Project presentation
+│── README.md
+
+
+---
+
+## ⚙️ How to Run the Project
+
+1. Install **Python (3.8 or above)**
+2. Install Flask:
+   ```bash
+   pip install flask
+3. Open terminal / command prompt
+4. Navigate to the project directory
+5. Run the application
+   python app.py
+6. Open browser and visit
+   http://127.0.0.1:5000
+
+
+## 🚀 Future Enhancements
+
+AI-based personalized learning paths
+Real-time voice interaction for children
+Multilingual learning support
+Mobile application version
+More countries, science games, and activities
+Parent and teacher dashboards
+
+## 📌 Conclusion
+
+EduBot World aims to transform traditional education into a playful, AI-driven, and interactive learning experience that helps children learn better while enjoying the process.
+
+## 👩‍💻 Developed By
+
+Vemula Sai Vaishnavi
+B.Tech | AI/ML Enthusiast
+
+
 
